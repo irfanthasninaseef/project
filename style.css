@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+
+.carousel-item img {
+    max-height: 600px;
+    object-fit: cover;
+    width: 100%;
+}
+
+
+.card {
+    height: 100%;
+}
+
+
+.card-img-top {
+    height: 200px;
+    object-fit: cover;
+}
